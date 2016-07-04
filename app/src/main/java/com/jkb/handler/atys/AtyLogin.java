@@ -92,7 +92,7 @@ public class AtyLogin extends BaseActivity {
 			Toast.makeText(context, "请输入全部内容！", 0).show();
 			break;
 		case MsgIDs.LoginRst_Success:
-			Toast.makeText(context, "登录成功！", 0).show();
+			Toast.makeText(context, "登录成功！！", 0).show();
 			break;
 		case MsgIDs.LoginRst_WrongDatas:
 			Toast.makeText(context, "用户名或者密码错误！", 0).show();
