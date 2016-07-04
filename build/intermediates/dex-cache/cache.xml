@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_d8d41b6c16e2394c4c38814b6a52e613aa509e57.jar" />
+    </item>
+    <item
+        jar="E:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_efff1fcddc4edd84adb6f6e4a867a1dfc320898c.jar" />
+    </item>
+    <item
+        jar="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_db5b2f011429fc7fb64180b85298349427c5fd8e.jar" />
+    </item>
+    <item
+        jar="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\App\JustKiddingBaby\AndroidStudioProjects\HandlerFrame\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_489d1b868546c757f4fd9c5cbb5f3781b63cda79.jar" />
+    </item>
+
+</items>
